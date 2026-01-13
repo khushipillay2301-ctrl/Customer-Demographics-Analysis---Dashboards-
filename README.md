@@ -1,4 +1,5 @@
 Customer Demographics Analysis Dashboard 📊
+
 Overview
 
 This project focuses on analyzing customer demographic data to understand patterns in age, gender, region, and behavior. The goal of this dashboard is to help businesses make better, data-driven decisions by presenting insights in a clear and interactive way.
